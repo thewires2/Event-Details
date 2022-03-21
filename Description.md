@@ -4,15 +4,15 @@
 ## ℹ️ Event information
 _Please complete all applicable._
 
-EVENT NAME - VENUE | CITY - YYYY/MM/DD
+API DEVELOPMENT WORKSHOP - VESIT | CHEMBUR - 2022/03/29 (Tentative)
 
-- **Event name**: 
-- **Event date**: _YYYY/MM/DD_
-- **Estimated number of attendees**: 
-- **Event location**: 
+- **Event name**: API DEVELOPMENT WORKSHOP
+- **Event date**: 2022/03/29 (Tentative)
+- **Estimated number of attendees**: 100
+- **Event location**: Chembur
 - **Event website**: 
 - **Event social media**: 
-- **Event description**: 
+- **Event description**: Complete guide on API development which includes building APIs using Nodejs and Expressjs, testing using Mocha and Chai and documenting the APIs using Swagger. This event will be followed by an API building competiton wherein participants will build APIs according to the functionalities given to them. 
 
 ## 🙋 What is your involvement in this event? 
 _Please tick all boxes that describe how you are involved in the event._
@@ -27,7 +27,8 @@ _Please tick all boxes that describe how you are involved in the event._
 
 
 ## ✨ How does this benefit your local community?
-_Please let us know why we should support this event._
+Participants will get acquainted with all the best practices used for API building that will help them while building the backend for their projects. 
+
 
 
 ## ⛳️ What help do you need with this event?
